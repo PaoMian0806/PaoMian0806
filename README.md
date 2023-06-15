@@ -1,4 +1,4 @@
-<hr style="border: 0;border-top: 4px double #8c8c8c;text-align: center;"></hr>
+<hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
 <div align="center">
 
