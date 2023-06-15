@@ -1,4 +1,6 @@
-<p align="center">***ABOUT ME***</p>
+<div align="center">
+  ***ABOUT ME***
+</div>
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
