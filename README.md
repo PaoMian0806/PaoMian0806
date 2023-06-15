@@ -1,6 +1,7 @@
 <div align="center">
   <h3>ABOUT ME</h3>
 </div>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software and cathedrals are much the same – first we build them, then we pray.&author=Sam Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
