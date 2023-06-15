@@ -4,10 +4,9 @@
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
-- 💬 A
-- 📚 B
-- 🌱 C
-
+- 💬 泡麵，Pao Mian
+- 📚 準大一生，興趣是走全端
+- 🌱 還在學習新東西，技術還很生疏
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
@@ -26,11 +25,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,codepen,css,firebase,py,replit,visualstudio,vscode,cpp,c&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,py,ruby,arduino,codepen,replit,bootstrap,firebase,visualstudio,vscode&perline=8" />
   </a>
 </p>
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
+
 <!--
 **PaoMian0806/PaoMian0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
