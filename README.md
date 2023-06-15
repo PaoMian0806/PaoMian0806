@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20cathedrals%20are%20much%20the%20same%20-%20first%20we%20build%20them,%20then%20we%20pray.&author=Sam%20Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20Cathedrals%20are%20much%20the%20Same%20-%20first%20we%20build%20them,%20then%20we%20pray.&author=Sam%20Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
