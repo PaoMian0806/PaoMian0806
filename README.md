@@ -13,6 +13,12 @@
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,codepen,css,firebase,py,replit,visualstudio,vscode,cpp,c" />
+  </a>
+</p>
+
 <!--
 **PaoMian0806/PaoMian0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
