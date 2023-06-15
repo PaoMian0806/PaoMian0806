@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="padding-bottom:10px;">
   <h3>ABOUT ME</h3>
 </div>
 
@@ -11,6 +11,10 @@
   
 </div>
 
+<div align="center" style="padding-bottom:10px;">
+  <h3>SKILLS</h3>
+</div>
+
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
 <p align="center">
@@ -19,6 +23,7 @@
   </a>
 </p>
 
+<hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 <!--
 **PaoMian0806/PaoMian0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
