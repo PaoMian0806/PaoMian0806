@@ -2,7 +2,7 @@
   <h3>ABOUT ME</h3>
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software&author=Sam Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software&author=Sam%20Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
