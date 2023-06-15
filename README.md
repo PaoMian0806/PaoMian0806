@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="display:flex;">
 
 [![PaoMian's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoMian0806&theme=dark&locale=cn&line_height=20&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
