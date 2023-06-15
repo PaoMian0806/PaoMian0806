@@ -17,7 +17,7 @@
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
-<p align="center" style="margin-bottom:50px;">
+<p align="center" style="padding-bottom:50px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bootstrap,codepen,css,firebase,py,replit,visualstudio,vscode,cpp,c" />
   </a>
