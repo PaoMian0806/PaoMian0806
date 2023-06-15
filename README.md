@@ -1,5 +1,5 @@
 [![PaoMian's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoMian0806&theme=dark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoMian0806&theme=dark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoMian0806&theme=dark&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PaoMian0806/PaoMian0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
