@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,py,ruby,arduino,codepen,replit,bootstrap,firebase,visualstudio,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,py,ruby,arduino,codepen,replit,bootstrap,firebase,visualstudio,vscode&perline=12" />
   </a>
 </p>
 
