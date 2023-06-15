@@ -1,3 +1,5 @@
+<p align="center">***ABOUT ME***</p>
+
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
 <div align="center">
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
