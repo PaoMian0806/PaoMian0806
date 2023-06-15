@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>ABOUT ME</h2>
+  <h3>ABOUT ME</h3>
 </div>
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
