@@ -10,7 +10,12 @@
 
 </div>
 
-- 📚 準大一生，興趣是全端工程師
+- 💬 A
+- 📚 B
+- 🌱 C
+
+
+<hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
 <div align="center">
 
@@ -45,6 +50,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 💬 泡麵，Pao Mian
+- 📚 準大一生，興趣是走全端
+- 🌱 還在學習新東西，技術還很生疏
 -->
 
 
