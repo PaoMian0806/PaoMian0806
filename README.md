@@ -4,12 +4,6 @@
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
-<div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20Cathedrals%20are%20much%20the%20Same%20-%20first%20we%20BUILD%20them,%20then%20we%20PRAY.&author=Sam%20Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
 - 💬 A
 - 📚 B
 - 🌱 C
@@ -54,6 +48,9 @@ Here are some ideas to get you started:
 - 💬 泡麵，Pao Mian
 - 📚 準大一生，興趣是走全端
 - 🌱 還在學習新東西，技術還很生疏
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Software%20and%20Cathedrals%20are%20much%20the%20Same%20-%20first%20we%20BUILD%20them,%20then%20we%20PRAY.&author=Sam%20Redwine)](https://github.com/piyushsuthar/github-readme-quotes)
+
 -->
 
 
