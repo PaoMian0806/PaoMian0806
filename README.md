@@ -1,4 +1,4 @@
-<div align="center" style="padding-bottom:10px;">
+<div align="center" style="padding-bottom:50px;">
   <h3>ABOUT ME</h3>
 </div>
 
