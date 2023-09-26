@@ -5,8 +5,7 @@
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
 - 💬 泡麵，Pao Mian
-- 📚 準大一生，興趣是走全端
-- 🌱 還在學習新東西，技術還很生疏
+- 📚 大一生
 
 <hr style="border: 0;border-top: 2px double #8c8c8c;text-align: center;"></hr>
 
